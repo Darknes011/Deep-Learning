@@ -4,7 +4,7 @@ MNIST handwriting Neural Network
 The MNIST handwriting dataset is pulled from tensorflow.examples.tutorials.mnist online.
 
 
-# Running Programs
+## Running Programs
 After initializing tensorflow:
 To initialize the 5 layer Eager API code: python tensorflow_quick.py
 
